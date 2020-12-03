@@ -1,0 +1,17 @@
+name: 'Build a package'
+author: 'Kailan Blanks'
+description: 'BUILD'
+
+branding:
+  icon: 'layers'
+  color: 'red'
+
+runs:
+  using: 'node12'
+  main: 'index.js'
+
+inputs:
+  project_directory:
+    description: 'Directory of the project to do nothing to, relative to the repository root.'
+    required: false
+    default: './'

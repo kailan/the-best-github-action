@@ -1,0 +1,22 @@
+{
+  "name": "the-best-github-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kailan/the-best-github-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kailan/the-best-github-action/issues"
+  },
+  "homepage": "https://github.com/kailan/the-best-github-action#readme",
+  "dependencies": {
+    "@actions/exec": "^1.0.4"
+  }
+}
