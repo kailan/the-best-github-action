@@ -1,6 +1,6 @@
-name: 'Kailan\'s GitHub Action'
+name: 'KB Action'
 author: Kailan Blanks
-description: 'It doesn\'t do much.'
+description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porttitor vel erat vel hendrerit.'
 
 branding:
   icon: 'cloud-lightning'
